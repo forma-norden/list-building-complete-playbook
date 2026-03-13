@@ -1,4 +1,4 @@
-# List Building Complete Playbook
+﻿# List Building Complete Playbook
 
 An end-to-end playbook for B2B list building, data sourcing, ICP scoring, and CRM hygiene. Protect your sending domains and ensure SDRs are only calling the highest-probability accounts.
 
@@ -6,15 +6,14 @@ An end-to-end playbook for B2B list building, data sourcing, ICP scoring, and CR
 
 | File | What it does |
 |------|-------------|
-| `SKILL.md` | Orchestrator and routing logic |
-| `list-icp-definition.md` | 3-Layer ICP model and Anti-ICP definition |
-| `list-company-sourcing.md` | Account waterfall approach and sourcing methods |
-| `list-contact-discovery.md` | Buying committee mapping and Boolean search |
-| `list-account-qualification.md` | Account scoring matrices and ABM tiering |
-| `list-data-validation-hygiene.md` | ZeroBounce rule and verification waterfalls |
-| `list-deduplication-merge.md` | Cross-source deduplication and CRM sync logic |
-| `list-abm-account-selection.md` | Revenue reverse-engineering for Enterprise ABM |
-| `ECOSYSTEM.md` | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/list-icp-definition.md` | 3-Layer ICP model and Anti-ICP definition |
+| `.agents/skills/list-company-sourcing.md` | Account waterfall approach and sourcing methods |
+| `.agents/skills/list-contact-discovery.md` | Buying committee mapping and Boolean search |
+| `.agents/skills/list-account-qualification.md` | Account scoring matrices and ABM tiering |
+| `.agents/skills/list-data-validation-hygiene.md` | ZeroBounce rule and verification waterfalls |
+| `.agents/skills/list-deduplication-merge.md` | Cross-source deduplication and CRM sync logic |
+| `.agents/skills/list-abm-account-selection.md` | Revenue reverse-engineering for Enterprise ABM |
 
 ## Prerequisites
 
@@ -44,17 +43,18 @@ want to reduce tool sprawl through better-engineered GTM systems.
 
 ---
 
-## From the Forma Nôrden GTM Library
+## From the Forma NÃ´rden GTM Library
 
-This is a free resource from the Forma Nôrden open-source GTM library, built by
+This is a free resource from the Forma NÃ´rden open-source GTM library, built by
 [Yananai A. Chiwuta](https://yananaichiwuta.com/), GTM engineer and founder of
-[Forma Nôrden](https://formanorden.com/).
+[Forma NÃ´rden](https://formanorden.com/).
 
 - [Open-source GTM systems](https://github.com/forma-norden) - all repos in the library  
 - [GTM engineering blog](https://formanorden.com/blog/) - strategy, systems, and outbound deep-dives  
 - [All resources](https://formanorden.com/resources/) - guides, frameworks, and templates  
 
 If this saves you time, star the repo and follow
-[Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
+[Forma NÃ´rden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
-Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+Built by [Forma NÃ´rden](https://formanorden.com/) - GTM engineering for B2B companies.
+
